@@ -1,0 +1,5 @@
+Transitions enable you to define the transition between two states of an element.
+Transition property: property you want to transition (font-size, width etc.)
+Transition-duration: 2s / 4ms..
+Transition-timing-function: ease-in / ease-out / linear/ steps...
+Transition-delay: 2s / 4ms ..

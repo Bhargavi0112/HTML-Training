@@ -1,0 +1,88 @@
+*{
+    margin
+}
+
+
+
+header{
+    padding: 20px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-around;
+    border:5px solid red;
+    align-items: center;
+    background-image: linear-gradient(powderblue , goldenrod , orange);
+}
+
+header > img {
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    box-shadow: 4px 4px 4px orange; 
+}
+
+ header ol{
+    boarder: 6px solid black
+    width: 60vw;
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    flex-wrap: wrap; 
+
+}
+header ol>li{
+    background-color: aliceblue;
+    padding: 8px 20px;
+    border-radius: 8px;
+}
+header ol>li>a{
+    margin: 
+
+    box-shadow: 4px 4px 4px aliceblue;
+    background-color: bisque;
+    transform: scale(1.2);
+}
+header ol>li>a{
+    color: brown;
+    /* text-decoration: line-through dotted 4px*/
+
+#title-container>h1{
+    position:absolute;
+    top: 40%;
+    lleft: 30%;
+    color: aliceblue;
+    font-size: 45px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    position:absolute;
+    top: 40%;
+    left: 30%;
+    color: aliceblue;
+    font-size: 3px 3px 3px black;
+    font-style: italic;
+}
+#title-container>h1::first-letter{
+    font-size: 70px;
+}
+#products
+.card-header>img{
+    height: 350px;
+    width: 250px;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    background-color: darkgrey;
+    width: 270px;
+    position: relative;
+    top: -300px;
+}
+
+@media screen and (max-widtth:1000px) {
+
+}
+
+brand name logos side by side move avvali round ga undali fotter apply chesi andhulo google maps undali new repository cheyali

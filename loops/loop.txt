@@ -1,0 +1,31 @@
+objects are the real time entities in javascript used to store data in the form of key and value pair then we used value pair
+in js objectsdeclaration:
+1. literal way
+syntax:
+variableType variableName={
+    key1:value,
+    ket2:value
+}
+
+functions 
+-> fuctions are the block of statements which will get execyte when ever is called
+notes:
+using functions we can perform code reusability
+and also increase code readability
+ types:
+ -------
+ 1. user defined functions 
+ 2. pre defined functions
+
+in js  can decalre functions in many ways(classifications)
+------------------------------------------------------
+1. anonymous functions
+2.normal/named function
+3. functional expretion
+4. first class function
+5. immediate invoking function(IIF) / self calling function
+6. arrow function (ES6)
+7. nested functions
+8. higher order functions
+9. call back function
+10. generator function

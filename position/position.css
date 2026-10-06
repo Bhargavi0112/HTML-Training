@@ -1,0 +1,33 @@
+div{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    display: inline-block;
+}
+#box1{
+    background-color: aqua;
+    position: static;
+    bottom: 30px;
+}
+#box2{
+    background-color: pink;
+    position: relative;
+    right: 50px;
+}
+div{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    display: inline-block;
+}
+#box1{
+    background-color: aqua;
+    position: static;
+    bottom: 30px;
+}
+#box2{
+    background-color: pink;
+    position: relative;
+    right: 50px;
+}
+

@@ -1,0 +1,11 @@
+div{
+    height: 200px;
+    width: 200px;
+    border: 20px solid black;
+    background-color: aqua;
+}
+@media (min-width:300px)and (max-width: 400px){
+    div{
+        background-color: pink;
+    }
+}

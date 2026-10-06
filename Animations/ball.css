@@ -1,0 +1,14 @@
+.ball{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+@keyframes ball{
+    from{
+        transform: translateY(-300px);
+    }to{
+        transform: translateY(30px);
+    }
+}
+
+

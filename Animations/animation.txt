@@ -1,0 +1,15 @@
+animation properties
+1. animation.name
+2. animation.duration
+3. animation-timing-function
+4. animation-delay
+5. animation-iteration-count
+6. animation-direction
+animation shorthand
+animation:myName 2s linear 3s infinite normal
+
+%in animation
+@keyframe myName{
+    0%{font-size: 20px;}
+    50%{font-size: }
+}

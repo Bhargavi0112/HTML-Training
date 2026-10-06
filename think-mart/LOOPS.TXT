@@ -1,0 +1,7 @@
+loops in html:
+1. for loop 
+2.while loop
+3.do while loop
+4.for-of loop#arrays or strinhgs, for values
+5.for-in loop#index's
+6. foreach loop

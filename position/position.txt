@@ -1,0 +1,15 @@
+static:
+default position(the top, right, bottom, left, and z-index properties have no effect)
+relative:
+element is reative to itself. (the top, right, bottom, left, and z-index will work)
+absolute:
+positioned relative to its closest positioned ancestor. (removed from the flow)
+fixed:
+positioned relative to browser (remved from flow)
+sticy:
+positioned based on users scroll position
+z-index:
+it decides the stack level of elements
+overlapping elements with a larger z-index cover those with a smaller one.
+z-index: auto(0)
+z-index:
