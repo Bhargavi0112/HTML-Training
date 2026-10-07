@@ -1,0 +1,7 @@
+console.log() for debugging
+varaibles: containers for data
+null & undefined : Empty values
+objects : key-value collections
+arrays : orded lists
+// write a program using a for loop to check whether a number is prime
+// write a program using a while loop to reverse a number
